@@ -1,5 +1,7 @@
 # aws_breaking_changes
-List of changes announced for AWS that may break existing code due to deprecations or otherwise. [Atom feed](https://github.com/SummitRoute/aws_breaking_changes/releases.atom)
+[![feed](https://github.com/SummitRoute/aws_breaking_changes/raw/master/screenshots/feed_icon.png)Atom feed](https://github.com/SummitRoute/aws_breaking_changes/releases.atom)
+
+List of changes announced for AWS that may break existing code due to deprecations or otherwise. 
 
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- |
