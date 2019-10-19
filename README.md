@@ -7,10 +7,8 @@ Any change has the potential to break something somewhere, but these seem like t
 
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- |
-| June 30, 2019 | Unknown | Lambda | Support ends for Node.js 6.10; no longer able to update ([link](https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html)) | ``aws lambda list-functions --query 'Functions[?Runtime == `nodejs6.10`]'.FunctionName`` |
-| July 22, 2019 | May 21, 2019 | EKS | Kubernetes 1.10 force updated to 1.11 ([docs](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html) and [blog](https://aws.amazon.com/blogs/compute/updates-to-amazon-eks-version-lifecycle/)) |  |
-| July 31, 2019 | Unknown | Lambda | Support ends for runtimes .NET Core 1.0 and 1.1; no longer able to update ([link](https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html)) | ``aws lambda list-functions --query 'Functions[?Runtime == `dotnetcore1.0`]'.FunctionName`` |
-| October 16, 2019 | Unknown | Elastic Beanstalk | Windows Server 2008 R2 retired ([link](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-support-policy.html)) |  |
+
+| January 6, 2020 | October 18, 2019 | Lambda | Support ends for Node.js 8.10, no longer able to create functions. Feb 3, no longer able to create. ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/27)) |  |
 | March 1, 2020 | Unknown | Elastic Beanstalk | Apache HTTP Server 2.2, Nginx 1.12.2, GlassFish 4.x, Go 1.3–1.10, Java 6, Node.js 4.x–8.x, PHP 5.4–5.6, PHP 7.0–7.1, Python 2.6, 2.7, 3.4, Ruby 1.9.3, Ruby 2.0–2.3, Tomcat 6, Tomcat 8 ([link](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-support-policy.html)) |  |
 | April 1, 2020 | Unknown | CloudHSM |  Gemalto Luna 5 HSM's will be terminated ([link](https://aws.amazon.com/cloudhsm/faqs-classic/)) |  |
 | April 30, 2020 | April 21, 2019 | CloudFront | API calls using code prior to 2016 will not work ([link](https://forums.aws.amazon.com/ann.jspa?annID=6754), [screenshot](https://github.com/SummitRoute/aws_breaking_changes/raw/master/screenshots/cloudfront_api_version.png)) | [link](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-api-version-check/) | 
