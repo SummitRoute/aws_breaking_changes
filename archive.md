@@ -9,3 +9,5 @@ After items are a month old, they'll be moved to this page, to archive them.
 | July 22, 2019 | May 21, 2019 | EKS | Kubernetes 1.10 force updated to 1.11 ([docs](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html) and [blog](https://aws.amazon.com/blogs/compute/updates-to-amazon-eks-version-lifecycle/)) |  |
 | July 31, 2019 | Unknown | Lambda | Support ends for runtimes .NET Core 1.0 and 1.1; no longer able to update ([link](https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html)) | ``aws lambda list-functions --query 'Functions[?Runtime == `dotnetcore1.0`]'.FunctionName`` |
 | October 16, 2019 | Unknown | Elastic Beanstalk | Windows Server 2008 R2 retired ([link](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-support-policy.html)) |  |
+| November 4, 2019 | Unknown | EKS | No longer able to use Kubernetes 1.11 and forced to upgrade to 1.12 ([link](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html#version-deprecation)) |  |
+
