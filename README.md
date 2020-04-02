@@ -7,7 +7,6 @@ Any change has the potential to break something somewhere, but these seem like t
 
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- |
-(https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-support-policy.html)) |  |
 | April 1, 2020 | Unknown | CloudHSM |  Gemalto Luna 5 HSM's will be terminated ([link](https://aws.amazon.com/cloudhsm/faqs-classic/)) |  |
 | April 30, 2020 | April 21, 2019 | CloudFront | API calls using code prior to 2016 will not work ([link](https://forums.aws.amazon.com/ann.jspa?annID=6754), [screenshot](https://github.com/SummitRoute/aws_breaking_changes/raw/master/screenshots/cloudfront_api_version.png)) | [link](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-api-version-check/) | 
 | June 24, 2020 | July 11, 2018 | S3 | Signature must be v4 ([link](https://forums.aws.amazon.com/ann.jspa?annID=5816), [screenshot](https://github.com/SummitRoute/aws_breaking_changes/raw/master/screenshots/s3_sig4.png)). Any new buckets created after June 24, 2020 will not support SigV2 signed requests, although existing buckets will continue to support SigV2 while we work with customers to move off this older request signing method. | Enable CloudTrail S3 Data Events and check `additionalEventData.SignatureVersion` ([link](https://docs.aws.amazon.com/AmazonS3/latest/dev/cloudtrail-identification-sigV2.html)) |
