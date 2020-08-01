@@ -12,3 +12,4 @@ Any change has the potential to break something somewhere, but these seem like t
 | December 31, 2020 | December 10, 2019 | Lambda | Python 2.7 run-time being deprecated ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/34)) | |
 | December 31, 2020 | December 17, 2019 | CloudFront | RTMP Support Discontinuing ([link](https://forums.aws.amazon.com/ann.jspa?annID=7356)) | |
 | March 31, 2021 | March 31, 2020 | FIPS | TLS 1.2 to become the minimum for all AWS FIPS endpoints [link](https://aws.amazon.com/blogs/security/tls-1-2-to-become-the-minimum-for-all-aws-fips-endpoints/) | |
+| August 1, 2021 | August 1, 2020 | Config | Indirect relationship capability removed ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/42) | |
