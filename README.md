@@ -11,7 +11,7 @@ This list will also keep track of increases in prices.  This will not track chan
 
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- | 
-| September 21, 2020 | August 25, 2020 | Pinpoint | Price increase of sending SMS messages to India from $0.00223 to $0.00303 per message. ([link](https://aws.amazon.com/about-aws/whats-new/2020/08/price-change-notice-for-customers-using-amazon-pinpoint-to-send-sms-messages-to-india/)) | |
+| September 21, 2020 | August 25, 2020 | Pinpoint | Price increase of sending SMS messages to India from $0.00223 to $0.00303 per message. ([link](https://aws.amazon.com/about-aws/whats-new/2020/08/price-change-notice-for-customers-using-amazon-pinpoint-to-send-sms-messages-to-india/)) resulting from government mandata ([link](https://economictimes.indiatimes.com/industry/telecom/telecom-news/telemarketers-tear-up-as-telcos-hike-bulk-sms-fees-by-25-30/articleshow/77206891.cms?from=mdr)) | |
 | September 30, 2020 | April 30, 2019 | S3 | Buckets created after September 30, 2020 must be accessed in the form \<bucketname\>.s3.amazonaws.com, not s3.amazonaws.com/\<bucketname\>/ ([link](https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/)) | See link |
 | October 1, 2020 | June 1, 2020 | SES | Signature must be v4. Announced privately via emails, [example](https://wordpress.org/support/topic/amazon-ses-api-signature-version-4-2/) | | 
 | December 31, 2020 | December 10, 2019 | Lambda | Python 2.7 run-time being deprecated ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/34)) | |
