@@ -15,3 +15,4 @@ This list will also keep track of increases in prices.  This will not track chan
 | June 1, 2021 | October 20, 2020 | Lambda | Python 2.7 run-time being deprecated ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/34)) | |
 | July 15, 2021 | January 19, 2021 | SDK | End of support for Python 2.7 for the SDK and CLI ([link](https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-python-2-7-in-aws-sdk-for-python-and-aws-cli-v1/)) | |
 | August 1, 2021 | August 1, 2020 | Config | Indirect relationship recording removed from EC2s ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/42)) | |
+| April 29, 2022 | May 14, 2021 | S3 | S3 BitTorrent support to be turned off for customers who have it enabled in their account ([link](https://github.com/awsdocs/amazon-s3-userguide/commit/0d1759880ccb1818ab0f14129ba1321c519d2ac1#diff-72be9d82d9be9bda6a297a4fbd11aca66ecde97e4f90de6f86bdf95c5f6b72c0R3)) | |
