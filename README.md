@@ -12,3 +12,4 @@ This list will also keep track of increases in prices.  This will not track chan
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- | 
 | August 1, 2021 | August 1, 2020 | Config | Indirect relationship recording removed from EC2s ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/42)) | |
+| August 15, 2022 | July 28, 2021 | EC | EC2 classic retiring ([link](https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/)) | |
