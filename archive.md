@@ -24,3 +24,6 @@ After items are a month old, they'll be moved to this page, to archive them.
 | October 1, 2020 | June 1, 2020 | SES | Signature must be v4. Announced privately via emails, [example](https://wordpress.org/support/topic/amazon-ses-api-signature-version-4-2/) | | 
 | November 5, 2020 | October 2, 2020 | IAM | Cost explorer IAM privileges changing.   See [#43](https://github.com/SummitRoute/aws_breaking_changes/issues/43). Not much is known currently.  | |
 | December 31, 2020 | December 17, 2019 | CloudFront | RTMP Support Discontinuing ([link](https://forums.aws.amazon.com/ann.jspa?annID=7356)) | |
+| March 31, 2021 | March 31, 2020 | FIPS | TLS 1.2 to become the minimum for all AWS FIPS endpoints [link](https://aws.amazon.com/blogs/security/tls-1-2-to-become-the-minimum-for-all-aws-fips-endpoints/) | |
+| June 1, 2021 | October 20, 2020 | Lambda | Python 2.7 run-time being deprecated ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/34)) | |
+| July 15, 2021 | January 19, 2021 | SDK | End of support for Python 2.7 for the SDK and CLI ([link](https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-python-2-7-in-aws-sdk-for-python-and-aws-cli-v1/)) | |
