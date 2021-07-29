@@ -15,3 +15,4 @@ This list will also keep track of increases in prices.  This will not track chan
 | June 1, 2021 | October 20, 2020 | Lambda | Python 2.7 run-time being deprecated ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/34)) | |
 | July 15, 2021 | January 19, 2021 | SDK | End of support for Python 2.7 for the SDK and CLI ([link](https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-python-2-7-in-aws-sdk-for-python-and-aws-cli-v1/)) | |
 | August 1, 2021 | August 1, 2020 | Config | Indirect relationship recording removed from EC2s ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/42)) | |
+| October 30, 2021 | July 28, 2020 | EC2 | EC2-Classic is being retired ([link](https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/)) | |
