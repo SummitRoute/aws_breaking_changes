@@ -11,7 +11,4 @@ This list will also keep track of increases in prices.  This will not track chan
 
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- | 
-| March 31, 2021 | March 31, 2020 | FIPS | TLS 1.2 to become the minimum for all AWS FIPS endpoints [link](https://aws.amazon.com/blogs/security/tls-1-2-to-become-the-minimum-for-all-aws-fips-endpoints/) | |
-| June 1, 2021 | October 20, 2020 | Lambda | Python 2.7 run-time being deprecated ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/34)) | |
-| July 15, 2021 | January 19, 2021 | SDK | End of support for Python 2.7 for the SDK and CLI ([link](https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-python-2-7-in-aws-sdk-for-python-and-aws-cli-v1/)) | |
 | August 1, 2021 | August 1, 2020 | Config | Indirect relationship recording removed from EC2s ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/42)) | |
