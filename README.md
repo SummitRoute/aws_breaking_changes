@@ -11,7 +11,7 @@ This list will also keep track of increases in prices.  This will not track chan
 
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- | 
-| August 1, 2021 | August 1, 2020 | Config | Indirect relationship recording removed from EC2s ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/42)) | |
+| September 15, 2021 | August 1, 2020 | Config | Indirect relationship recording removed from EC2s ([link](https://docs.aws.amazon.com/config/latest/developerguide/faq.html#faq)) | |
 | April 29, 2022 | May 14, 2021 | S3 | S3 BitTorrent support to be turned off for customers who have it enabled in their account ([link](https://github.com/awsdocs/amazon-s3-userguide/commit/0d1759880ccb1818ab0f14129ba1321c519d2ac1#diff-72be9d82d9be9bda6a297a4fbd11aca66ecde97e4f90de6f86bdf95c5f6b72c0R3)) | |
 | August 16, 2021 | July 30, 2021 | Lambda | No longer retrying errors when Lambda concurrency is zero ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/48)) | |
 | August 15, 2022 | July 28, 2021 | EC2 | EC2 classic retiring ([link](https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/)) | |
