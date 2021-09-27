@@ -12,6 +12,7 @@ This list will also keep track of increases in prices.  This will not track chan
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- | 
 | August 30, 2021 | July 30, 2021 | Lambda | No longer retrying errors when Lambda concurrency is zero ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/48)) | |
+| September 8, 2021 | September 4, 2021 | ElasticSearch/IAM | IAM privilege names for ElasticSearch changed ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/52)) | |
 | September 15, 2021 | August 1, 2020 | Config | Indirect relationship recording removed from EC2s ([link](https://docs.aws.amazon.com/config/latest/developerguide/faq.html#faq)) | |
 | November 22, 2021 | September 2, 2021 | Cloudtrail | Global service events only available in Lookup in us-east-1 ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/51)) | |
 | December 1, 2021 | August 31, 2021 | Athena | Query syntax changes ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/49)) | |
