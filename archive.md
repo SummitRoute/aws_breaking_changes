@@ -27,3 +27,7 @@ After items are a month old, they'll be moved to this page, to archive them.
 | March 31, 2021 | March 31, 2020 | FIPS | TLS 1.2 to become the minimum for all AWS FIPS endpoints [link](https://aws.amazon.com/blogs/security/tls-1-2-to-become-the-minimum-for-all-aws-fips-endpoints/) | |
 | June 1, 2021 | October 20, 2020 | Lambda | Python 2.7 run-time being deprecated ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/34)) | |
 | July 15, 2021 | January 19, 2021 | SDK | End of support for Python 2.7 for the SDK and CLI ([link](https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-python-2-7-in-aws-sdk-for-python-and-aws-cli-v1/)) | |
+| August 30, 2021 | July 30, 2021 | Lambda | No longer retrying errors when Lambda concurrency is zero ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/48)) | |
+| September 8, 2021 | September 4, 2021 | ElasticSearch/IAM | IAM privilege names for ElasticSearch changed ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/52)) | |
+| September 15, 2021 | August 1, 2020 | Config | Indirect relationship recording removed from EC2s ([link](https://docs.aws.amazon.com/config/latest/developerguide/faq.html#faq)) | |
+| October 20, 2021 | September 27, 2021 | CloudWatch Events/Lambda | Lambda API names in CloudTrail/CloudWatch Events will no longer include the version in the API name ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/53)) | |
