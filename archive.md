@@ -31,3 +31,7 @@ After items are a month old, they'll be moved to this page, to archive them.
 | September 8, 2021 | September 4, 2021 | ElasticSearch/IAM | IAM privilege names for ElasticSearch changed ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/52)) | |
 | September 15, 2021 | August 1, 2020 | Config | Indirect relationship recording removed from EC2s ([link](https://docs.aws.amazon.com/config/latest/developerguide/faq.html#faq)) | |
 | October 20, 2021 | September 27, 2021 | CloudWatch Events/Lambda | Lambda API names in CloudTrail/CloudWatch Events will no longer include the version in the API name ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/53)) | |
+| November 22, 2021 | September 2, 2021 | Cloudtrail | Global service events only available in Lookup in us-east-1 ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/51)) | |
+| November 22, 2021 | November 18, 2021 | Macie | Global service events only available in in us-east-1 ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/56)) | |
+| December 1, 2021 | August 31, 2021 | Athena | Query syntax changes ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/49)) | |
+
