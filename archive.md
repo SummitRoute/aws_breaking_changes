@@ -35,4 +35,4 @@ After items are a month old, they'll be moved to this page, to archive them.
 | November 22, 2021 | September 2, 2021 | Cloudtrail | Global service events only available in Lookup in us-east-1 ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/51)) | |
 | November 22, 2021 | November 18, 2021 | Macie | Global service events only available in in us-east-1 ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/56)) | |
 | December 1, 2021 | August 31, 2021 | Athena | Query syntax changes ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/49)) | |
-
+| April 29, 2022 | May 14, 2021 | S3 | S3 BitTorrent support to be turned off for customers who have it enabled in their account ([link](https://github.com/awsdocs/amazon-s3-userguide/commit/0d1759880ccb1818ab0f14129ba1321c519d2ac1#diff-72be9d82d9be9bda6a297a4fbd11aca66ecde97e4f90de6f86bdf95c5f6b72c0R3)) | |
