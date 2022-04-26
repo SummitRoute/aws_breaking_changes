@@ -11,6 +11,7 @@ This list will also keep track of increases in prices.  This will not track chan
 
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- | 
+| April 30, 2022 | Feb 3, 2022 | IAM Lambda | IAM policy evaluation being changed for how Lambda ARNs are referrenced ([link](https://forum.serverless.com/t/lambda-security-notification-from-aws-involving-iam-policies-need-help-determining-action-for-serverless-framework/16660)) | |
 | May 18, 2022 | Dec 30, 2021 | RDS, Aurora (GovCloud) | Database connections that use TLS certificate validation must use the new `rds-ca-rsa4096-g1` CA certificate or connections will fail. Starting March 21, all new databases will use the new CA certificate; starting May 18, all databases will starting having certificate rotations scheduled during their maintenance window. |  |
 | August 15, 2022 | July 28, 2021 | EC2 | EC2 classic retiring ([link](https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/)) | |
 | August 17, 2022 | April 15, 2022 | Lambda | Python 3.6 run-time deprecated ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/61))
