@@ -19,3 +19,5 @@ This list will also keep track of increases in prices.  This will not track chan
 | August 17, 2022 | April 15, 2022 | Lambda | Python 3.6 run-time deprecated ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/61))
 | July 31, 2022 | July 29, 2021 | Console | IE 11 support ending for console ([link](https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/)) | |
 | December 31, 2022 | Unknown | EC2 | Spot blocks (defined duration) are no longer supported ([docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-requests.html#fixed-duration-spot-instances), [api](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_RequestSpotInstances.html)) | |
+| June 28, 2023 | June 28, 2022 | TLS | APIs will no longer support TLS versions 1.0 and 1.1 ([link](https://aws.amazon.com/blogs/security/tls-1-2-required-for-aws-endpoints/)) | |
+
