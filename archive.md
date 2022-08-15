@@ -2,6 +2,7 @@ After items are a month old, they'll be moved to this page, to archive them.
 
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- |
+| Feb 6, 2018 | Feb 6, 2018 | RDS | Starting with Aurora MySQL 2.1, the engine name of Aurora MySQL has changed from aurora to aurora-mysql. ([link](https://docs.aws.amazon.com/ja_jp/AmazonRDS/latest/AuroraMySQLReleaseNotes/AuroraMySQL.Updates.20180206.html)) | |
 | Nov 29, 2018 | Nov 29, 2018 | Route53 | Price increase by taking a free service of Route53 and renaming to Cloud Map where it then started charging for it. ([link](https://twitter.com/0xdabbad00/status/1068197705594228736)) | |
 | Aug 1, 2019 | May 21, 2019 | Config | Price increase by changing pricing model from per-rule to per-rule evaluation. ([link](https://aws.amazon.com/about-aws/whats-new/2019/05/announcing-the-new-pricing-plan-for-aws-config-rules/)) | |
 | May 30, 2019 | Unknown | Lambda | Support ends for runtime .NET Core 2.0; no longer able to update ([link](https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html)) | ``aws lambda list-functions --query 'Functions[?Runtime == `dotnetcore2.0`]'.FunctionName`` |
