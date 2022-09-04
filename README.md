@@ -11,10 +11,13 @@ This list will also keep track of increases in prices.  This will not track chan
 
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- | 
+| June 1, 2022       | March 14, 2022   | Glue | End of support for Spark 2.2 Scala 2 (Glue Version 0.9), Spark 2.2 Python 2 (Glue Version 0.9), Spark 2.4 Python 2 (Glue Version 1.0), Python 2 (Glue Version 1.0) ([link](https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html#glue-version-support-policy-milestones))| [`glue_version_deprecation_checker`](https://github.com/aws-samples/aws-glue-samples/tree/master/utilities/glue_version_deprecation_checker) |
+| September 30, 2022 | March 14, 2022   | Glue | End of support for Zeppelin notebook development endpoints ([link](https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html#glue-version-support-policy-milestones))|  |
 | November 14, 2022 | August 14, 2022? | Lambda | Node.js 12 run-time end-of-life ([link](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html#runtime-support-policy)) | |
 | December 31, 2022 | Unknown | EC2 | Spot blocks (defined duration) are no longer supported ([docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-requests.html#fixed-duration-spot-instances), [api](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_RequestSpotInstances.html)) | |
 | January 20, 2023 | August 14, 2022 | Lambda | .NET Core 3.1 run-time end-of-life ([link](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html#runtime-support-policy)) | |
 | February 21, 2023 | May 18, 2022 | Amazon Sumerian |  Amazon Sumerian retiring ([link](https://aws.amazon.com/blogs/aws/amazon-sumerian-now-generally-available/)) | |
+| March 31, 2023     | March 14, 2022   | Glue                     | End of support for Glue Version 2.0 ([link](https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html#glue-version-support-policy-milestones))| [`glue_version_deprecation_checker`](https://github.com/aws-samples/aws-glue-samples/tree/master/utilities/glue_version_deprecation_checker) |
 | June 28, 2023 | June 28, 2022 | TLS | APIs will no longer support TLS versions 1.0 and 1.1 ([link](https://aws.amazon.com/blogs/security/tls-1-2-required-for-aws-endpoints/)) | |
 | September 1, 2023 | September 1, 2022 | Amazon WAM |  Amazon WorkSpaces Application Manager retiring ([link](https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-application-manager-amazon-wam-is-retiring/)) | |
 
