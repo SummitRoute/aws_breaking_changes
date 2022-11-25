@@ -12,6 +12,7 @@ This list will also keep track of increases in prices.  This will not track chan
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- | 
 | November 14, 2022 | August 14, 2022? | Lambda | Node.js 12 run-time end-of-life ([link](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html#runtime-support-policy)) | |
+| December 21, 2022 | November 22, 2022 | Route53 | Domain registration, renewal, and transfer price increase for .com (+$1), .xyz (+$1), .biz (+$3), and .mx (+$23).  ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/70)) | |
 | December 31, 2022 | Unknown | EC2 | Spot blocks (defined duration) are no longer supported ([docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-requests.html#fixed-duration-spot-instances), [api](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_RequestSpotInstances.html)) | |
 | January 20, 2023 | August 14, 2022 | Lambda | .NET Core 3.1 run-time end-of-life ([link](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html#runtime-support-policy)) | |
 | February 21, 2023 | May 18, 2022 | Amazon Sumerian |  Amazon Sumerian retiring ([link](https://aws.amazon.com/blogs/aws/amazon-sumerian-now-generally-available/)) | |
