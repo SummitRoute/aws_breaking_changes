@@ -11,6 +11,7 @@ This list will also keep track of increases in prices.  This will not track chan
 
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- | 
+| January 20, 2023 | January 11, 2023 | IAM | The IAM privilege for aws-portal are being renamed. On Jan 20, new accounts will only be able to use the new privileges. On July 6, all other accounts will switch over. ([link](https://aws.amazon.com/blogs/aws-cloud-financial-management/changes-to-aws-billing-cost-management-and-account-consoles-permissions/)) | |
 | February 21, 2023 | May 18, 2022 | Amazon Sumerian |  Amazon Sumerian retiring ([link](https://aws.amazon.com/blogs/aws/amazon-sumerian-now-generally-available/)) | |
 | March 31, 2023 | August 14, 2022 | Lambda | Node.js 12 run-time end-of-life ([link](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html#runtime-support-policy)) | |
 | March 31, 2023 | August 14, 2022 | Lambda | .NET Core 3.1 run-time end-of-life ([link](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html#runtime-support-policy)) | |
