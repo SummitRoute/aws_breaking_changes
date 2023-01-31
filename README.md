@@ -18,5 +18,6 @@ This list will also keep track of increases in prices.  This will not track chan
 | March 31, 2023     | March 14, 2022   | Glue                     | End of support for Glue Version 2.0 ([link](https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html#glue-version-support-policy-milestones))| [`glue_version_deprecation_checker`](https://github.com/aws-samples/aws-glue-samples/tree/master/utilities/glue_version_deprecation_checker) |
 | June 28, 2023 | June 28, 2022 | TLS | APIs will no longer support TLS versions 1.0 and 1.1 ([link](https://aws.amazon.com/blogs/security/tls-1-2-required-for-aws-endpoints/)) | |
 | September 1, 2023 | September 1, 2022 | Amazon WAM |  Amazon WorkSpaces Application Manager retiring ([link](https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-application-manager-amazon-wam-is-retiring/)) | |
+| January 31, 2024 | January 31, 2023 | DeepLens |  DeepLens is retiring, including no longer having access to any DeepLens devices ([link](https://awscommunity.social/@Quinnypig/109784554147152881)) | |
 
 
