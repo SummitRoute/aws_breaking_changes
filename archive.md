@@ -49,5 +49,11 @@ After items are a month old, they'll be moved to this page, to archive them.
 | September 30, 2022 |2021 | GameSparks | Existing GameSparks customers needed to migrate to Amazon GameSparks ([link](https://pages.awscloud.com/GLOBAL-ln-DL-IMM-ISC-GMT-gamesparks-2021-learn.html)) | |
 | December 21, 2022 | November 22, 2022 | Route53 | Domain registration, renewal, and transfer price increase for .com (+$1), .xyz (+$1), .biz (+$3), and .mx (+$23).  ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/70)) | |
 | December 31, 2022 | Unknown | EC2 | Spot blocks (defined duration) are no longer supported ([docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-requests.html#fixed-duration-spot-instances), [api](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_RequestSpotInstances.html)) | |
-
+| February 21, 2023 | May 18, 2022 | Amazon Sumerian |  Amazon Sumerian retiring ([link](https://aws.amazon.com/blogs/aws/amazon-sumerian-now-generally-available/)) | |
+| March 6, 2023 | January 11, 2023 | IAM | The IAM privilege for aws-portal are being renamed. On Jan 20, new accounts will only be able to use the new privileges. On July 6, all other accounts will switch over. ([link](https://aws.amazon.com/blogs/aws-cloud-financial-management/changes-to-aws-billing-cost-management-and-account-consoles-permissions/)) | |
+| March 31, 2023 | August 14, 2022 | Lambda | Node.js 12 run-time end-of-life ([link](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html#runtime-support-policy)) | |
+| March 31, 2023 | August 14, 2022 | Lambda | .NET Core 3.1 run-time end-of-life ([link](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html#runtime-support-policy)) | |
+| March 31, 2023     | March 14, 2022   | Glue                     | End of support for Glue Version 2.0 ([link](https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html#glue-version-support-policy-milestones))| [`glue_version_deprecation_checker`](https://github.com/aws-samples/aws-glue-samples/tree/master/utilities/glue_version_deprecation_checker) |
+| March 31, 2023 | Unknown | Server Migration Service | Server Migration Service APIs removed from SDK ([link](https://github.com/aws/aws-sdk-js/blob/master/CHANGELOG.md#213480)) | |
+| April 15, 2023 | Unknown | Elastic Inference |  New customers will not be able to launch instances with Elastic Inference accelerators ([link](https://docs.aws.amazon.com/elastic-inference/latest/developerguide/what-is-ei.html)) | |
 
