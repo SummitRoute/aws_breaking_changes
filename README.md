@@ -12,6 +12,7 @@ This list will also keep track of increases in prices.  This will not track chan
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- | 
 | September 1, 2023 | September 1, 2022 | Amazon WAM |  Amazon WorkSpaces Application Manager retiring ([link](https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-application-manager-amazon-wam-is-retiring/)) | |
+| August 1, 2023 | June 27, 2023 | SES - Price change |  SES free tier changing to 12 months long, and goes from 62,000 free outbound messages per month to 3,000 ([link]([https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-application-manager-amazon-wam-is-retiring/](https://github.com/SummitRoute/aws_breaking_changes/issues/81))) | |
 | January 31, 2024 | January 31, 2023 | DeepLens |  DeepLens is retiring, including no longer having access to any DeepLens devices ([link](https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-end-of-life.html)) | |
 | March 31, 2024 | May 10, 2023 | OpsWorks |  OpsWorks for Puppet Enterprise will no longer be able to be used ([link]([https://docs.aws.amazon.com/opsworks/latest/userguide/welcome_classic.html](https://docs.aws.amazon.com/opsworks/latest/userguide/welcome_opspup.html))) | |
 | May 5, 2024 | May 10, 2023 | OpsWorks |  OpsWorks for Chef Automate will no longer be able to be used ([link](https://docs.aws.amazon.com/opsworks/latest/userguide/welcome_classic.html)) | |
