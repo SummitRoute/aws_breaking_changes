@@ -56,4 +56,7 @@ After items are a month old, they'll be moved to this page, to archive them.
 | March 31, 2023     | March 14, 2022   | Glue                     | End of support for Glue Version 2.0 ([link](https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html#glue-version-support-policy-milestones))| [`glue_version_deprecation_checker`](https://github.com/aws-samples/aws-glue-samples/tree/master/utilities/glue_version_deprecation_checker) |
 | March 31, 2023 | Unknown | Server Migration Service | Server Migration Service APIs removed from SDK ([link](https://github.com/aws/aws-sdk-js/blob/master/CHANGELOG.md#213480)) | |
 | April 15, 2023 | Unknown | Elastic Inference |  New customers will not be able to launch instances with Elastic Inference accelerators ([link](https://docs.aws.amazon.com/elastic-inference/latest/developerguide/what-is-ei.html)) | |
+| May 22, 2023 | Unknown | Lambda |  Mutation of security groups on lambda ENI's is no longer permitted ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/80)) | |
+| June 1, 2023 | May 23, 2023 | S3 |  S3 multi-region access points will begin billing for usage they had previously not billed for (but apparently said they would) ([link](https://twitter.com/QuinnyPig/status/1661044908550148096)) | |
+| June 28, 2023 | June 28, 2022 | TLS | APIs will no longer support TLS versions 1.0 and 1.1 ([link](https://aws.amazon.com/blogs/security/tls-1-2-required-for-aws-endpoints/)) | |
 
