@@ -11,9 +11,6 @@ This list will also keep track of increases in prices.  This will not track chan
 
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- | 
-| May 22, 2023 | Unknown | Lambda |  Mutation of security groups on lambda ENI's is no longer permitted ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/80)) | |
-| June 1, 2023 | May 23, 2023 | S3 |  S3 multi-region access points will begin billing for usage they had previously not billed for (but apparently said they would) ([link](https://twitter.com/QuinnyPig/status/1661044908550148096)) | |
-| June 28, 2023 | June 28, 2022 | TLS | APIs will no longer support TLS versions 1.0 and 1.1 ([link](https://aws.amazon.com/blogs/security/tls-1-2-required-for-aws-endpoints/)) | |
 | September 1, 2023 | September 1, 2022 | Amazon WAM |  Amazon WorkSpaces Application Manager retiring ([link](https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-application-manager-amazon-wam-is-retiring/)) | |
 | January 31, 2024 | January 31, 2023 | DeepLens |  DeepLens is retiring, including no longer having access to any DeepLens devices ([link](https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-end-of-life.html)) | |
 | March 31, 2024 | May 10, 2023 | OpsWorks |  OpsWorks for Puppet Enterprise will no longer be able to be used ([link]([https://docs.aws.amazon.com/opsworks/latest/userguide/welcome_classic.html](https://docs.aws.amazon.com/opsworks/latest/userguide/welcome_opspup.html))) | |
