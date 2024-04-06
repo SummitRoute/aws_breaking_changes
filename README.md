@@ -24,6 +24,21 @@ This list will also keep track of increases in prices.  This will not track chan
 | December 16, 2024 | Unknown | IoT | AWS IoT 1-Click service will be discontinued ([link](https://docs.aws.amazon.com/iot-1-click/latest/developerguide/1click-end-of-life.html)) | |
 | December 31, 2024 | December 28, 2023 | Aurora Serverless | Aurora Serverless will be automatically upgraded to v2, which has some significant differences, such as not scaling down to zero. ([link](https://twitter.com/jeremy_daly/status/1740475761113604451)) | |
 
+## AWS support calendars for third-party products
 
+Services such as Lambda and RDS provide managed hosting for third-party products that have their own lifecycle.
 
+AWS already publishes the support calendar for those products.
 
+If you use one of these services and need to know when AWS will stop supporting your current version you can consult its calendar directly.
+
+* [Elasticache Redis supported versions](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/supported-engine-versions.html)
+* [Elasticache Memcached suppported versions](https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/supported-engine-versions-mc.html)
+* [Lambda supported runtimes](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html) (major versions for all languages)
+* [Lambda runtime updates](https://docs.aws.amazon.com/lambda/latest/dg/runtimes-update.html) (info to control patch versions)
+* [RDS Aurora Versions](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.VersionPolicy.html)
+* [RDS Db2 Versions](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Db2.Concepts.VersionMgmt.html)
+* [RDS MariaDB Versions](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MariaDB.Concepts.VersionMgmt.html)
+* [RDS MySQL Versions](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Concepts.VersionMgmt.html)
+* [RDS Oracle Release Notes](https://docs.aws.amazon.com/AmazonRDS/latest/OracleReleaseNotes/Welcome.html)
+* [RDS SQL Server Versions](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_SQLServer.html)
