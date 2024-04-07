@@ -61,5 +61,10 @@ After items are a month old, they'll be moved to this page, to archive them.
 | June 28, 2023 | June 28, 2022 | TLS | APIs will no longer support TLS versions 1.0 and 1.1 ([link](https://aws.amazon.com/blogs/security/tls-1-2-required-for-aws-endpoints/)) | |
 | September 1, 2023 | September 1, 2022 | Amazon WAM |  Amazon WorkSpaces Application Manager retiring ([link](https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-application-manager-amazon-wam-is-retiring/)) | |
 | August 1, 2023 | June 27, 2023 | SES - Price change |  SES free tier changing to 12 months long, and goes from 62,000 free outbound messages per month to 3,000 ([link]([https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-application-manager-amazon-wam-is-retiring/](https://github.com/SummitRoute/aws_breaking_changes/issues/81))) | |
+| January 8, 2024 | Unknown | EC2 | Amazon Elastic Graphics will reach end of life on January 8, 2024. ([link](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/elastic-graphics.html?icmpid=docs_ec2_console)) | |
+| January 31, 2024 | January 31, 2023 | DeepLens |  DeepLens is retiring, including no longer having access to any DeepLens devices ([link](https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-end-of-life.html)) | |
+| February 1, 2024 | July 28, 2023 | EC2 - Price change |  IPv4 addresses will be charged for ([link](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)) | |
+| February 29, 2024 | August 24, 2023 | Honeycode |  Beta service being discontinued ([link]([https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/](https://twitter.com/QuinnyPig/status/1694835070337753439))) | |
+| March 31, 2024 | May 10, 2023 | OpsWorks |  OpsWorks for Puppet Enterprise will no longer be able to be used ([link](https://docs.aws.amazon.com/opsworks/latest/userguide/welcome_classic.html)) | |
 
 
