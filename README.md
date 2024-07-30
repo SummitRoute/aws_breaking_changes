@@ -16,6 +16,7 @@ This list will also keep track of increases in prices.  This will not track chan
 | May 5, 2024 | May 10, 2023 | OpsWorks |  OpsWorks for Chef Automate will no longer be able to be used ([link](https://docs.aws.amazon.com/opsworks/latest/userguide/welcome_classic.html)) | |
 | May 26, 2024 | May 25, 2023 | OpsWorks |  OpsWorks Stacks will no longer be able to be used ([link](https://docs.aws.amazon.com/opsworks/latest/userguide/welcome_classic.html)) | |
 | June 6, 2024 | N/A | CodeCommit | CodeCommit stopped being available to new accounts without announcement, but still works for existing customers.  ([link](https://repost.aws/questions/QUshILm0xbTjWJZSD8afYVgA/codecommit-cannot-create-a-repository)) | |
+| July 22, 2024 | N/A | AWS Mobile Hub | AWS Mobile Hub removed from the SDK. ([link](https://github.com/aws/aws-sdk-go/commit/e8ff775f9a1995a3e9654b6631d745e94fd32742) | |
 | July 29(?), 2024 | N/A | CloudSearch | CloudSearch stopped being available to new accounts. ([link](https://dev.classmethod.jp/articles/aws-start-to-restrict-codecommit-and-cloudsearch/) | |
 | July 29(?), 2024 | N/A | Cloud9 | Cloud9 stopped being available to new accounts. ([link](https://dev.classmethod.jp/articles/aws-start-to-restrict-codecommit-and-cloudsearch/) | |
 | July 31, 2024 | July 31, 2023 | CodeStar | AWS CodeStar is being deprecated. Existing resources will be unaffected, but you will not be able to create new resources with it. ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/84#issue-1830512424)) | |
