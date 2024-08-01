@@ -17,12 +17,12 @@ This list will also keep track of increases in prices.  This will not track chan
 | May 26, 2024 | May 25, 2023 | OpsWorks |  OpsWorks Stacks will no longer be able to be used ([link](https://docs.aws.amazon.com/opsworks/latest/userguide/welcome_classic.html)) | |
 | June 6, 2024 | N/A | CodeCommit | CodeCommit stopped being available to new accounts without announcement, but still works for existing customers.  ([link](https://repost.aws/questions/QUshILm0xbTjWJZSD8afYVgA/codecommit-cannot-create-a-repository)) | |
 | July 22, 2024 | N/A | Mobile Hub | Mobile Hub removed from the SDK. ([link](https://github.com/aws/aws-sdk-go/commit/e8ff775f9a1995a3e9654b6631d745e94fd32742) | |
-| July 29(?), 2024 | N/A | CloudSearch | Access discontinued for new customers ([link](https://dev.classmethod.jp/articles/aws-start-to-restrict-codecommit-and-cloudsearch/) | |
-| July 29(?), 2024 | N/A | Cloud9 |Access discontinued for new customers ([link](https://dev.classmethod.jp/articles/aws-start-to-restrict-codecommit-and-cloudsearch/) | |
-| July 30(?), 2024 | July 30, 2024 | SimpleDB | Access discontinued for new customers ([link](https://x.com/jeffbarr/status/1818488419347317217) | |
-| July 30(?), 2024 | July 30, 2024 | S3 Select | Access discontinued for new customers ([link](https://x.com/jeffbarr/status/1818488419347317217) | |
-| July 30(?), 2024 | July 30, 2024 | Forecast | Access discontinued for new customers ([link](https://x.com/jeffbarr/status/1818488419347317217) | |
-| July 30(?), 2024 | July 30, 2024 | Data Pipeline | Access discontinued for new customers ([link](https://x.com/jeffbarr/status/1818488419347317217) | |
+| July 29(?), 2024 | N/A | CloudSearch | Access discontinued for new customers ([link](https://dev.classmethod.jp/articles/aws-start-to-restrict-codecommit-and-cloudsearch/)) | |
+| July 29(?), 2024 | N/A | Cloud9 |Access discontinued for new customers ([link](https://dev.classmethod.jp/articles/aws-start-to-restrict-codecommit-and-cloudsearch/)) | |
+| July 30(?), 2024 | July 30, 2024 | SimpleDB | Access discontinued for new customers ([link](https://x.com/jeffbarr/status/1818488419347317217)) | |
+| July 30(?), 2024 | July 30, 2024 | S3 Select | Access discontinued for new customers ([link](https://x.com/jeffbarr/status/1818488419347317217)) | |
+| July 30(?), 2024 | July 30, 2024 | Forecast | Access discontinued for new customers ([link](https://x.com/jeffbarr/status/1818488419347317217)) | |
+| July 30(?), 2024 | July 30, 2024 | Data Pipeline | Access discontinued for new customers ([link](https://x.com/jeffbarr/status/1818488419347317217)) | |
 | July 31, 2024 | July 31, 2023 | CodeStar | AWS CodeStar is being deprecated. Existing resources will be unaffected, but you will not be able to create new resources with it. ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/84#issue-1830512424)) | |
 | September 30, 2024 | November 22, 2023 | Application Cost Profiler (ACP) | AWS Application Cost Profiler (ACP) will be discontinued ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/87)) | |
 | October 1, 2024 | October 20, 2021 | EC2 Auto Scaling Launch Configurations | Through a series of deprecations spanning multiple years, AWS is slowly killing off EC2 Auto Scaling Launch Configurations in favor of EC2 Launch Templates.  On October 1, 2024, only those accounts that have previously used Launch Configurations can continue to do so.  A final deprecation has not yet been announced.   ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/95)) ([Original soft deprecation](https://aws.amazon.com/blogs/compute/amazon-ec2-auto-scaling-will-no-longer-add-support-for-new-ec2-features-to-launch-configurations/)) | |
