@@ -29,6 +29,7 @@ This list will also keep track of increases in prices.  This will not track chan
 | November 29, 2024 | Unknown | Finspace | FinSpace Dataset Browser will be discontinued ([link](https://docs.aws.amazon.com/finspace/latest/management-api/API_UpdateEnvironment.html)) | |
 | December 16, 2024 | Unknown | IoT 1-Click | AWS IoT 1-Click service will be discontinued ([link](https://docs.aws.amazon.com/iot-1-click/latest/developerguide/1click-end-of-life.html)) | |
 | December 31, 2024 | December 28, 2023 | Aurora Serverless v1 | Aurora Serverless will be automatically upgraded to v2, which has some significant differences, such as not scaling down to zero. ([link](https://twitter.com/jeremy_daly/status/1740475761113604451)) | |
+| July 11, 2024 |N/A | ECS | Container image references forcibly resolved to digests, making it impossible to use mutable tags such as "latest". ([awaiting solution](https://github.com/aws/containers-roadmap/issues/2393)) | |
 | July 31, 2025 | July 18, 2024 | QLDB | QLDB to be deprecated on July 31, 2025. ([link](https://docs.aws.amazon.com/qldb/latest/developerguide/document-history.html)) | |
 
 ## AWS support calendars for third-party products
