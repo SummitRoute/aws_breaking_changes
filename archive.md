@@ -2,6 +2,7 @@ After items are a month old, they'll be moved to this page, to archive them.
 
 | Date taking effect | Date announced | Service | Change | How to check |
 | ---- | ---- |---- |---- |---- |
+| October, 2016 | n/A | Import/Export | Service erased without notice ([link]()) | |
 | Nov 29, 2018 | Nov 29, 2018 | Route53 | Price increase by taking a free service of Route53 and renaming to Cloud Map where it then started charging for it. ([link](https://twitter.com/0xdabbad00/status/1068197705594228736)) | |
 | Aug 1, 2019 | May 21, 2019 | Config | Price increase by changing pricing model from per-rule to per-rule evaluation. ([link](https://aws.amazon.com/about-aws/whats-new/2019/05/announcing-the-new-pricing-plan-for-aws-config-rules/)) | |
 | May 30, 2019 | Unknown | Lambda | Support ends for runtime .NET Core 2.0; no longer able to update ([link](https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html)) | ``aws lambda list-functions --query 'Functions[?Runtime == `dotnetcore2.0`]'.FunctionName`` |
@@ -27,6 +28,7 @@ After items are a month old, they'll be moved to this page, to archive them.
 | December 31, 2020 | December 17, 2019 | CloudFront | RTMP Support Discontinuing ([link](https://forums.aws.amazon.com/ann.jspa?annID=7356)) | |
 | March 31, 2021 | March 31, 2020 | FIPS | TLS 1.2 to become the minimum for all AWS FIPS endpoints [link](https://aws.amazon.com/blogs/security/tls-1-2-to-become-the-minimum-for-all-aws-fips-endpoints/) | |
 | June 1, 2021 | October 20, 2020 | Lambda | Python 2.7 run-time being deprecated ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/34)) | |
+| July, 2021 | Unknown | Lumberyard | No longer supported ([link]
 | July 15, 2021 | January 19, 2021 | SDK | End of support for Python 2.7 for the SDK and CLI ([link](https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-python-2-7-in-aws-sdk-for-python-and-aws-cli-v1/)) | |
 | August 30, 2021 | July 30, 2021 | Lambda | No longer retrying errors when Lambda concurrency is zero ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/48)) | |
 | September 8, 2021 | September 4, 2021 | ElasticSearch/IAM | IAM privilege names for ElasticSearch changed ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/52)) | |
@@ -36,7 +38,9 @@ After items are a month old, they'll be moved to this page, to archive them.
 | November 22, 2021 | November 18, 2021 | Macie | Global service events only available in in us-east-1 ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/56)) | |
 | December 1, 2021 | August 31, 2021 | Athena | Query syntax changes ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/49)) | |
 | December 5, 2021 | July 12, 2021 | Lambda | Code changes no longer allowed until Lambda enters active state ([link](https://aws.amazon.com/blogs/compute/coming-soon-expansion-of-aws-lambda-states-to-all-functions/)) | |
+| March 2022 | N/A | RDS on VMware | Silently erased ([link](https://aws.amazon.com/about-aws/whats-new/2019/10/amazon-rds-on-vmware-is-now-generally-available/)) | |
 | April 29, 2022 | May 14, 2021 | S3 | S3 BitTorrent support to be turned off for customers who have it enabled in their account ([link](https://github.com/awsdocs/amazon-s3-userguide/commit/0d1759880ccb1818ab0f14129ba1321c519d2ac1#diff-72be9d82d9be9bda6a297a4fbd11aca66ecde97e4f90de6f86bdf95c5f6b72c0R3)) | |
+| April, 2022 | N/A | Worklink | Silently erased ([link](https://aws.amazon.com/about-aws/whats-new/2019/01/introducing-amazon-worklink/)) | |
 | April 30, 2022 | Feb 3, 2022 | IAM Lambda | IAM policy evaluation being changed for how Lambda ARNs are referrenced ([link](https://forum.serverless.com/t/lambda-security-notification-from-aws-involving-iam-policies-need-help-determining-action-for-serverless-framework/16660)) | |
 | May 2, 2022 | Unknown | Robomaker |  AWS removed existing robots, fleets and deployments job resources from accounts ([link](https://docs.aws.amazon.com/robomaker/latest/dg/chapter-support-policy.html#software-support-policy-may2022)) |  |
 | May 18, 2022 | Dec 30, 2021 | RDS, Aurora (GovCloud) | Database connections that use TLS certificate validation must use the new `rds-ca-rsa4096-g1` CA certificate or connections will fail. Starting March 21, all new databases will use the new CA certificate; starting May 18, all databases will starting having certificate rotations scheduled during their maintenance window. |  |
@@ -63,6 +67,7 @@ After items are a month old, they'll be moved to this page, to archive them.
 | September 1, 2023 | September 1, 2022 | Amazon WAM |  Amazon WorkSpaces Application Manager retiring ([link](https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-application-manager-amazon-wam-is-retiring/)) | |
 | August 1, 2023 | June 27, 2023 | SES - Price change |  SES free tier changing to 12 months long, and goes from 62,000 free outbound messages per month to 3,000 ([link]([https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-application-manager-amazon-wam-is-retiring/](https://github.com/SummitRoute/aws_breaking_changes/issues/81))) | |
 | January 8, 2024 | Unknown | EC2 | Amazon Elastic Graphics will reach end of life on January 8, 2024. ([link](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/elastic-graphics.html?icmpid=docs_ec2_console)) | |
+| July 31, 2024 | January 12, 2024 | Golang SDK v1 | No longer updated. ([link](https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-aws-sdk-for-go-v1-on-july-31-2025/)) | |
 | January 31, 2024 | January 31, 2023 | DeepLens |  DeepLens is retiring, including no longer having access to any DeepLens devices ([link](https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-end-of-life.html)) | |
 | February 1, 2024 | July 28, 2023 | EC2 - Price change |  IPv4 addresses will be charged for ([link](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)) | |
 | February 29, 2024 | August 24, 2023 | Honeycode |  Beta service being discontinued ([link]([https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/](https://twitter.com/QuinnyPig/status/1694835070337753439))) | |
