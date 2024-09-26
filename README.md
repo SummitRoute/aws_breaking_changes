@@ -30,6 +30,7 @@ This list will also keep track of increases in prices.  This will not track chan
 | October 1, 2024 | October 20, 2021 | EC2 Auto Scaling Launch Configurations | Through a series of deprecations spanning multiple years, AWS is slowly killing off EC2 Auto Scaling Launch Configurations in favor of EC2 Launch Templates.  On October 1, 2024, only those accounts that have previously used Launch Configurations can continue to do so.  A final deprecation has not yet been announced.   ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/95)) ([Original soft deprecation](https://aws.amazon.com/blogs/compute/amazon-ec2-auto-scaling-will-no-longer-add-support-for-new-ec2-features-to-launch-configurations/)) | |
 | October 17, 2024 | September 17, 2024 | Lookout for Equipment | Lookout for Equipment will no longer be open to new customers ([link](https://aws.amazon.com/blogs/machine-learning/preserve-access-and-explore-alternatives-for-amazon-lookout-for-equipment/)) | |
 | November 29, 2024 | Unknown | Finspace | FinSpace Dataset Browser will be discontinued ([link](https://docs.aws.amazon.com/finspace/latest/management-api/API_UpdateEnvironment.html)) | |
+| November 30, 2024 | Unknown | CloudEndure Migration | CloudEndure Migration will no longer be available ([link](https://docs.cloudendure.com/Content/Configuring_and_Running_Migration/Migration_EOL/Migration_EOL.htm)) | |
 | December 16, 2024 | Unknown | IoT 1-Click | AWS IoT 1-Click service will be discontinued ([link](https://docs.aws.amazon.com/iot-1-click/latest/developerguide/1click-end-of-life.html)) | |
 | December 31, 2024 | December 28, 2023 | Aurora Serverless v1 | Aurora Serverless will be automatically upgraded to v2, which has some significant differences, such as not scaling down to zero. ([link](https://twitter.com/jeremy_daly/status/1740475761113604451)) | |
 | March 31, 2025 | September 13, 2024 | Lex V1 | No new resources can be created in Lex V1 on March 31, 2025, and on September 15, 2025 any requests will fail. ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/107)) | |
@@ -37,6 +38,8 @@ This list will also keep track of increases in prices.  This will not track chan
 | September 17, 2025 | September 17, 2024 | DeepComposer | DeepComposer will no longer be accessible on September 17, 2025 ([link](https://aws.amazon.com/blogs/machine-learning/support-for-aws-deepcomposer-ending-soon/)) | |
 | December (?), 2025 | August 29, 2024 | Deepracer | Deepracer to be open-sourced and no longer exist as a service. ([link](https://aws.amazon.com/blogs/machine-learning/celebrating-the-final-aws-deepracer-league-championship-and-road-ahead/)) | |
 
+## Services that are deprecated without dates for degradation:
+- Cognito Sync: Documentation advises not to use it. ([link](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-sync.html)
 
 
 ## AWS support calendars for third-party products
