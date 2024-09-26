@@ -25,6 +25,7 @@ This list will also keep track of increases in prices.  This will not track chan
 | July 30(?), 2024 | July 30, 2024 | Forecast | Access discontinued for new customers ([link](https://x.com/jeffbarr/status/1818488419347317217)) | |
 | July 30(?), 2024 | July 30, 2024 | Data Pipeline | Access discontinued for new customers ([link](https://x.com/jeffbarr/status/1818488419347317217)) | |
 | July 31, 2024 | July 31, 2023 | CodeStar | AWS CodeStar is being deprecated. Existing resources will be unaffected, but you will not be able to create new resources with it. ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/84#issue-1830512424)) | |
+| September 24, 2024 | September 24, 2024 | AppMesh | Access discontinued for new customers. ([link](https://aws.amazon.com/blogs/containers/migrating-from-aws-app-mesh-to-amazon-ecs-service-connect/)) | |
 | September 30, 2024 | November 22, 2023 | Application Cost Profiler (ACP) | AWS Application Cost Profiler (ACP) will be discontinued ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/87)) | |
 | October 1, 2024 | October 20, 2021 | EC2 Auto Scaling Launch Configurations | Through a series of deprecations spanning multiple years, AWS is slowly killing off EC2 Auto Scaling Launch Configurations in favor of EC2 Launch Templates.  On October 1, 2024, only those accounts that have previously used Launch Configurations can continue to do so.  A final deprecation has not yet been announced.   ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/95)) ([Original soft deprecation](https://aws.amazon.com/blogs/compute/amazon-ec2-auto-scaling-will-no-longer-add-support-for-new-ec2-features-to-launch-configurations/)) | |
 | October 17, 2024 | September 17, 2024 | Lookout for Equipment | Lookout for Equipment will no longer be open to new customers ([link](https://aws.amazon.com/blogs/machine-learning/preserve-access-and-explore-alternatives-for-amazon-lookout-for-equipment/)) | |
@@ -35,6 +36,8 @@ This list will also keep track of increases in prices.  This will not track chan
 | July 31, 2025 | July 18, 2024 | QLDB | QLDB to be deprecated on July 31, 2025. ([link](https://docs.aws.amazon.com/qldb/latest/developerguide/document-history.html)) | |
 | September 17, 2025 | September 17, 2024 | DeepComposer | DeepComposer will no longer be accessible on September 17, 2025 ([link](https://aws.amazon.com/blogs/machine-learning/support-for-aws-deepcomposer-ending-soon/)) | |
 | December (?), 2025 | August 29, 2024 | Deepracer | Deepracer to be open-sourced and no longer exist as a service. ([link](https://aws.amazon.com/blogs/machine-learning/celebrating-the-final-aws-deepracer-league-championship-and-road-ahead/)) | |
+
+
 
 ## AWS support calendars for third-party products
 
