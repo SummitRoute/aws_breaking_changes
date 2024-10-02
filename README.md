@@ -38,6 +38,7 @@ This list will also keep track of increases in prices.  This will not track chan
 | March 31, 2025 | September 13, 2024 | Lex V1 | No new resources can be created in Lex V1 on March 31, 2025, and on September 15, 2025 any requests will fail. ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/107)) | |
 | July 31, 2025 | July 18, 2024 | QLDB | QLDB to be deprecated on July 31, 2025. ([link](https://docs.aws.amazon.com/qldb/latest/developerguide/document-history.html)) | |
 | September 17, 2025 | September 17, 2024 | DeepComposer | DeepComposer will no longer be accessible on September 17, 2025 ([link](https://aws.amazon.com/blogs/machine-learning/support-for-aws-deepcomposer-ending-soon/)) | |
+| September 25, 2025 | September 24, 2024 | NICE EnginFrame | NICE EnginFrame will no longer be accessible to new users ([link](https://aws.amazon.com/jp/blogs/hpc/discontinuation-of-nice-enginframe-effective-september-25th-2025/)) | |
 | December (?), 2025 | August 29, 2024 | Deepracer | Deepracer to be open-sourced and no longer exist as a service. ([link](https://aws.amazon.com/blogs/machine-learning/celebrating-the-final-aws-deepracer-league-championship-and-road-ahead/)) | |
 
 ## Services that are deprecated without dates for degradation:
