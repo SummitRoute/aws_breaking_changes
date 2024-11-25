@@ -38,6 +38,7 @@ This list will also keep track of increases in prices.  This will not track chan
 | October 24, 2024 | October 24, 2024 | Nimble | Nimble is no longer be open to new customers and has been removed from the SDK ([link](https://github.com/boto/botocore/pull/3280)) | |
 | October 28, 2024 | September 26, 2024 | Amazon FSx File Gateway | Amazon FSx File Gateway will no longer be open to new customers ([link](https://aws.amazon.com/blogs/storage/switch-your-file-share-access-from-amazon-fsx-file-gateway-to-amazon-fsx-for-windows-file-server/)) | |
 | October 31, 2024 | October 1, 2024 | Monitron | Monitron will no longer be open to new customers ([link](https://aws.amazon.com/blogs/machine-learning/maintain-access-and-consider-alternatives-for-amazon-monitron/)) | |
+| November 12, 2024 | November 12, 2024 | Snowball | Previous Snowball generations discontinued. Snowcone discontinued. ([link](https://aws.amazon.com/blogs/storage/aws-snow-device-updates/)) | |
 | November 29, 2024 | Unknown | Finspace | FinSpace Dataset Browser will be discontinued ([link](https://docs.aws.amazon.com/finspace/latest/management-api/API_UpdateEnvironment.html)) | |
 | November 30, 2024 | Unknown | CloudEndure Migration | CloudEndure Migration will no longer be available ([link](https://docs.cloudendure.com/Content/Configuring_and_Running_Migration/Migration_EOL/Migration_EOL.htm)) | |
 | December 16, 2024 | Unknown | IoT 1-Click | AWS IoT 1-Click service will be discontinued ([link](https://docs.aws.amazon.com/iot-1-click/latest/developerguide/1click-end-of-life.html)) | |
