@@ -22,6 +22,7 @@ This list will also keep track of increases in prices.  This will not track chan
 | November 13, 2025 | November 12, 2024 | Elastic Transcoder | Elastic Transcoder will no longer be accessible. ([link](https://aws.amazon.com/blogs/media/support-for-amazon-elastic-transcoder-ending-soon/)) | |
 | November 17, 2025 | November 12, 2024 | Application Discovery | Application Discovery Service Discovery Connector will no longer be accessible. ([link](https://aws.amazon.com/blogs/migration-and-modernization/deprecation-of-aws-application-discovery-service-discovery-connector/)) | |
 | December (?), 2025 | August 29, 2024 | Deepracer | Deepracer to be open-sourced and no longer exist as a service. ([link](https://aws.amazon.com/blogs/machine-learning/celebrating-the-final-aws-deepracer-league-championship-and-road-ahead/)) | |
+| February 2026 | August 19, 2025 | Chime | Chime, including business calling, but not the Chime SDK, is being deprecated ([link](https://github.com/SummitRoute/aws_breaking_changes/issues/124)) | |
 
 ## Services that are deprecated without dates for degradation:
 - Cognito Sync: Documentation advises not to use it. ([link](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-sync.html)
